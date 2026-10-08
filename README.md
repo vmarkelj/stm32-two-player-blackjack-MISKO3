@@ -10,10 +10,6 @@ Microprocessor Electronics) at the Faculty of Electrical Engineering, University
 
 ![Two MiŠKo 3 boards running the game](docs/images/boards.jpg)
 
-▶ **Demo video:**
-
-[DRAG AND DROP THE VIDEO HERE IN THE GITHUB EDITOR – GITHUB INSERTS THE LINK]
-
 ---
 
 ## Features
