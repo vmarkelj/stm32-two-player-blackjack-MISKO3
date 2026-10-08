@@ -8,7 +8,7 @@ other acts as the **slave** and mirrors the game state the master sends it.
 Developed as a project for the course *Osnove mikroprocesorske elektronike* (Basics of
 Microprocessor Electronics) at the Faculty of Electrical Engineering, University of Ljubljana, 2026.
 
-![Two MiŠKo 3 boards running the game](docs/images/boards.jpg)
+![Two MiŠKo 3 boards running the game](docs/images/boards.jpeg)
 
 ---
 
