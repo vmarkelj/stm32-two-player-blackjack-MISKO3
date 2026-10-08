@@ -1,0 +1,23 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.cyclo
+
+# Local IDE settings (contain paths from your own computer)
+*.launch
+.settings/language.settings.xml
+.metadata/
+RemoteSystemsTempFiles/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
